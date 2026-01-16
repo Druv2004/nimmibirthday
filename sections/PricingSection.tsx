@@ -189,7 +189,7 @@ sab kuch dekha humne.
 or ye sab chalta rahega hamesha but iske sath ek chiz or rahegi apke liye mera pyar 
 
 Aur aaj humara  
-1 year aur 1 month complete ho chuka hai.  
+1 year aur almost 1 month complete ho chuka hai.  
 
 Mujhe pata hai abhi sab kuch theek nahi chal raha,  
 lekin main aapko kabhi chhod nahi sakta.  

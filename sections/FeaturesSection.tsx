@@ -12,7 +12,7 @@ export default function FeaturesSection() {
             <SectionTitle 
                 text1="Happy Birthday" 
                 text2="My Love Nimmi ❤️" 
-                text3="Can we Celebrating your special day and our beautiful journey of 1 year & 1 month together ? " 
+                text3="Can we Celebrating your special day together ? " 
             />
 
             <div className="flex flex-wrap items-center justify-center gap-6 md:gap-4 mt-16 px-6">
@@ -49,7 +49,7 @@ export default function FeaturesSection() {
                     transition={{ type: "spring", stiffness: 320, damping: 70, mass: 1 }}
                 >
                     Nimmi, you are the most beautiful part of my life.  
-                    On your birthday and our 1 year & 1 month milestone,  
+                    On your birthday and our 1 year & almost 1 month milestone,  
                     I just want to say — every moment with you feels like a dream come true. 💖
                 </motion.p>
 
@@ -86,7 +86,7 @@ export default function FeaturesSection() {
                         />
 
                         <h3 className="text-[24px]/7.5 text-slate-300 font-medium mt-6">
-                            1 Year & 1 Month of Love, Laughter & Forever
+                            1 Year & almost 1 Month of Love, Laughter & Forever
                         </h3>
 
                         <p className="text-slate-300 mt-2">
