@@ -16,7 +16,7 @@ export const testimonialsData: ITestimonial[] = [
         quote: 'This SaaS app has completely streamlined our onboarding process. What used to take hours now takes minutes!',
     },
     {
-        image: '/assets/us2.jpg',
+        image: '/assets/us2_temp.jpg',
         name: 'Sophia Carter',
         handle: '@sophiacodes',
         date: 'February 14, 2025',
@@ -58,7 +58,7 @@ export const testimonialsData: ITestimonial[] = [
         quote: 'This SaaS app has completely streamlined our onboarding process. What used to take hours now takes minutes!',
     },
     {
-        image: '/assets/us9.jpg',
+        image: '/assets/us9_temp.jpg',
         name: 'Sophia Carter',
         handle: '@sophiacodes',
         date: 'February 14, 2025',
